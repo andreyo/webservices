@@ -1,0 +1,1 @@
+netstat -cenap --tcp
